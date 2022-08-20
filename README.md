@@ -46,8 +46,6 @@ Key:
   - [Genesys Works Business Technology Internship Program](https://genesysworks.org/for-students/) -- summer training and paid one year internship in tech and business ($10,000 - $15000) for junior students going into their senior year of HS with coaching for college as well **HS** **P**
   - [Code 2 College Software Engineering Leadership Program and Internship](https://code2college.org/selp/) -- program for underrepresented Austin area students with no or some coding experience with professional development culminating in a professional internship **HS** **P**
 
-A massive collection of other opportunities for women in STEM and Coding are compiled [here](https://code.likeagirl.io/a-high-school-students-guide-to-cs-programs-internships-487586031e07) by Areeta Wong.
-
 - #### College Students (including graduating HS Seniors/rising 1st Years)
   - [Google STEP Interships (1st and 2nd Year Undergrads)](https://buildyourfuture.withgoogle.com/internships)
   - [Google Apprenticeships](https://buildyourfuture.withgoogle.com/apprenticeships)
@@ -55,6 +53,8 @@ A massive collection of other opportunities for women in STEM and Coding are com
   - [Google Build Your Future CSSI](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute) -- available to graduating seniors/rising college freshmen **G** **V**
 - [IALR STEM Research Internships](https://www.ialr.org/internships/) -- available to graduating seniors/rising college freshmen and above **P**
 - [Code2040 Fellowship Program](https://www.code2040.org/fellows-program) -- internship and training program for black and latinx students in tech **P** **V**
+
+A massive collection of other opportunities for women in STEM and Coding are compiled [here](https://code.likeagirl.io/a-high-school-students-guide-to-cs-programs-internships-487586031e07) by Areeta Wong.
 
 ### Research
 
