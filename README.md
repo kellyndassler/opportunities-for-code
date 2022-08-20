@@ -34,6 +34,9 @@ Key:
 - [MLH Sponsored Hackathons](https://mlh.io/seasons/2023/events) -- all MLH sponsored hackathons for the current season
 
 ### Summer Opportunities and Programs
+*** Summer opportunities range from fellowships to internships to research and learning programs. Some of these run year round as well! 
+
+*** A massive collection of other opportunities for women in STEM and Coding are compiled [here](https://code.likeagirl.io/a-high-school-students-guide-to-cs-programs-internships-487586031e07) by Areeta Wong.
 - #### High School Students
   - [Code Chicas / Code Chicas++](https://latinitasonline.org/teen-programs/free-code-chica-certification-program/) -- free and paid opportunity to learn coding and get hands on Git, HTML/CSS/JS, PM, and Design experience **P** **V** **HS**
   - [frog Innovators Workshop](https://medium.com/frog-voices/bridging-the-gap-with-design-x-diversity-8177e5374733) -- runs for different disciplines in design and tech during different parts of the year **P** **V** **HS**
@@ -53,8 +56,6 @@ Key:
   - [Google Build Your Future CSSI](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute) -- available to graduating seniors/rising college freshmen **G** **V**
   - [IALR STEM Research Internships](https://www.ialr.org/internships/) -- available to graduating seniors/rising college freshmen and above **P**
   - [Code2040 Fellowship Program](https://www.code2040.org/fellows-program) -- internship and training program for black and latinx students in tech **P** **V**
-
-A massive collection of other opportunities for women in STEM and Coding are compiled [here](https://code.likeagirl.io/a-high-school-students-guide-to-cs-programs-internships-487586031e07) by Areeta Wong.
 
 ### Research
 
