@@ -14,7 +14,7 @@ Key:
 
 ### Hackathons
 *** Many hackathons offer travel scholarships and stipends so you can attend from out-of-state or another city for free! Check out the individual hackathon website to find travel stipend opportunities. Hackathons are also beginner-friendly opportunities!
-*** Hackathons are traditionally for college students, but many accept high school students as well. Hackathons accepting high school students are denoted by ** HS **.
+*** Hackathons are traditionally for college students, but many accept high school students as well. Hackathons accepting high school students are denoted by **HS**.
 
 - [Hackathon Preparation Workshop](https://www.techtogether.io/prehacks)
 - [TechTogether](https://www.techtogether.io/events) -- several locations, hackathon for womxn **HS** **G**
