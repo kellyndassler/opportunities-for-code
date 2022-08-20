@@ -5,6 +5,7 @@ A collection of opportunities for people who are interested in coding as a hobby
 If you have any questions on scholarships, hackathons, internships, or design technology in particular, feel free to contact me via LinkedIn. Last updated in August 2022.
 
 Key:
+
 **P** = Paid Opportunity
 
 **V** = Virtual/Online or Hybrid Opportunity or Option Available
