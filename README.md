@@ -51,8 +51,8 @@ Key:
   - [Google Apprenticeships](https://buildyourfuture.withgoogle.com/apprenticeships)
   - [Accenture Apprenticeships] -- apprenticeships for students with a HS degree or higher interested in design and tech (https://www.accenture.com/us-en/careers/jobdetails?id=R00048340_en&title=Entry+Level+Apprenticeship+-+NAELFY22) **P** 
   - [Google Build Your Future CSSI](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute) -- available to graduating seniors/rising college freshmen **G** **V**
-- [IALR STEM Research Internships](https://www.ialr.org/internships/) -- available to graduating seniors/rising college freshmen and above **P**
-- [Code2040 Fellowship Program](https://www.code2040.org/fellows-program) -- internship and training program for black and latinx students in tech **P** **V**
+  - [IALR STEM Research Internships](https://www.ialr.org/internships/) -- available to graduating seniors/rising college freshmen and above **P**
+  - [Code2040 Fellowship Program](https://www.code2040.org/fellows-program) -- internship and training program for black and latinx students in tech **P** **V**
 
 A massive collection of other opportunities for women in STEM and Coding are compiled [here](https://code.likeagirl.io/a-high-school-students-guide-to-cs-programs-internships-487586031e07) by Areeta Wong.
 
