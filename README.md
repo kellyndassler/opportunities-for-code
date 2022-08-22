@@ -14,23 +14,6 @@ Key:
 
 **G** = Grant or Stipend Available
 
-### Scholarships
-
-- [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships)
-
-### Hackathons
-*** Many hackathons offer travel scholarships and stipends so you can attend from out-of-state or another city for free! Check out the individual hackathon website to find travel stipend opportunities. Hackathons are also beginner-friendly opportunities!
-
-*** Hackathons are traditionally for college students, but many accept high school students as well. Hackathons accepting high school students are denoted by **HS**.
-
-- [Hackathon Preparation Workshop](https://www.techtogether.io/prehacks)
-- [TechTogether](https://www.techtogether.io/events) -- several locations, hackathon for womxn **HS** **G**
-- [AthenaHacks](http://athenahacks.com/) -- hackathon for womxn **V** 
-- [Technica](https://gotechnica.org/) -- hackathon for womxn and underrepresented genders **V** **G**
-- [Spectra](https://www.sospectra.com/) -- hackathon for womxn and underrepresented genders 
-- [Superposition Hackathon](http://superposition.tech/hackathon6.html) -- 6 annual hackathons for womxn and non-binary HS and college students **HS** **V**
-- [MLH Sponsored Hackathons](https://mlh.io/seasons/2023/events) -- all MLH sponsored hackathons for the current season
-
 ### Summer Opportunities and Programs
 *** Summer opportunities range from fellowships to internships to research and learning programs. Some of these run year round as well! 
 
@@ -54,6 +37,23 @@ Key:
   - [Google Build Your Future CSSI](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute) -- available to graduating seniors/rising college freshmen **G** **V**
   - [IALR STEM Research Internships](https://www.ialr.org/internships/) -- available to graduating seniors/rising college freshmen and above **P**
   - [Code2040 Fellowship Program](https://www.code2040.org/fellows-program) -- internship and training program for black and latinx students in tech **P** **V**
+
+### Scholarships
+
+- [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships)
+
+### Hackathons
+*** Many hackathons offer travel scholarships and stipends so you can attend from out-of-state or another city for free! Check out the individual hackathon website to find travel stipend opportunities. Hackathons are also beginner-friendly opportunities!
+
+*** Hackathons are traditionally for college students, but many accept high school students as well. Hackathons accepting high school students are denoted by **HS**.
+
+- [Hackathon Preparation Workshop](https://www.techtogether.io/prehacks)
+- [TechTogether](https://www.techtogether.io/events) -- several locations, hackathon for womxn **HS** **G**
+- [AthenaHacks](http://athenahacks.com/) -- hackathon for womxn **V** 
+- [Technica](https://gotechnica.org/) -- hackathon for womxn and underrepresented genders **V** **G**
+- [Spectra](https://www.sospectra.com/) -- hackathon for womxn and underrepresented genders 
+- [Superposition Hackathon](http://superposition.tech/hackathon6.html) -- 6 annual hackathons for womxn and non-binary HS and college students **HS** **V**
+- [MLH Sponsored Hackathons](https://mlh.io/seasons/2023/events) -- all MLH sponsored hackathons for the current season
 
 ### Mentorship
 
