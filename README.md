@@ -18,8 +18,6 @@ Key:
 
 - [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships)
 
-### Mentorship
-
 ### Hackathons
 *** Many hackathons offer travel scholarships and stipends so you can attend from out-of-state or another city for free! Check out the individual hackathon website to find travel stipend opportunities. Hackathons are also beginner-friendly opportunities!
 
@@ -56,6 +54,8 @@ Key:
   - [Google Build Your Future CSSI](https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute) -- available to graduating seniors/rising college freshmen **G** **V**
   - [IALR STEM Research Internships](https://www.ialr.org/internships/) -- available to graduating seniors/rising college freshmen and above **P**
   - [Code2040 Fellowship Program](https://www.code2040.org/fellows-program) -- internship and training program for black and latinx students in tech **P** **V**
+
+### Mentorship
 
 ### Research
 
